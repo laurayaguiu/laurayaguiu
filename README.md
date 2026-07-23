@@ -1,13 +1,23 @@
-## Laura Yaguiu
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=C42B34&text=Laura%20Yaguiu&fontColor=FCE9AB&section=header" />
 
-**`Desenvolvedora FullStack`**
+<br>
 
-Olá! Sou estudante de Sistemas de Informação 4º semestre na Universidade Presbiteriana Mackenzie, com grande interesse na área de dados, Inteligência Artificial e desenvolvimento back-end.
+<div align="center" width="100%">
+  
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC4F7C&width=435&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;IA+-+Backend+-+Dados+-+Cybersecurity" alt="Typing SVG" />
+ 
+</div>
 
-LINKEDIN: "[Laurayaguiu](https://www.linkedin.com/in/laura-yaguiu-332a16359/)"
+<div align="center">
+  <img src="https://i.imgur.com/GCXk1kg.jpeg" width="500">
+</div>
 
 ---
+### 🙋‍♀️ Sobre mim
 
+Estudante de Sistemas de Informação, atualmente no 4º semestre da Universidade Universidade Presbiteriana Mackenzie. Tenho grande interesse por desenvolvimento de software, inteligência artificial e automação, e gosto de entender a lógica por trás das soluções e como a tecnologia pode ser aplicada para resolver problemas reais. Estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades por meio de projetos e estudos.
+
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -83,4 +93,19 @@ LINKEDIN: "[Laurayaguiu](https://www.linkedin.com/in/laura-yaguiu-332a16359/)"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
+
 <br/>
+
+---
+
+<div align="center">
+<br>
+    
+## 📫 Vamos manter contato!
+<a href="https://www.linkedin.com/in/laura-yaguiu-332a16359/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=C42B34&section=footer"/>
